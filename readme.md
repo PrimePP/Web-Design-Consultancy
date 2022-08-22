@@ -19,7 +19,7 @@ This project is a landing page for web design consultancy. It is a purely respon
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Netlify*  **[ClickMe]()** 
+- Deployed on *Netlify*  **[ClickMe](https://web-design-consultant.netlify.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
