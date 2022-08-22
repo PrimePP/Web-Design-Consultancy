@@ -1,0 +1,11 @@
+{
+  "name": "web-designer-landing-page",
+  "version": "1.0.0",
+  "description": "This is a landing page for a web design consultant firm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pritam Pal",
+  "license": "ISC"
+}
