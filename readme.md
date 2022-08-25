@@ -5,7 +5,7 @@
 ![ImageThumbnail](./thumbnail.png)
 ***
 ### Project details
-This project is a landing page for web design consultancy. It is a purely responsive design , created for Desktop , mobile , and tablet usage. Only UI is developed for this project for this project, functionality is not .
+This project is a landing page for web design consultancy. It is a purely responsive design , created for Desktop , mobile ,tablet usage. Only UI is developed for this project for this project, functionality is not .
 
 
 ***
