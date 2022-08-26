@@ -5,12 +5,15 @@
 ![ImageThumbnail](./thumbnail.png)
 ***
 ### Project details
-This project is a landing page for web design consultancy. It is a purely responsive design , created for Desktop , mobile ,tablet usage. Only UI is developed for this project for this project, functionality is not .
-
+This project is a landing page for web design consultancy. It is a purely responsive design , created for Desktop , mobile ,tablet usage. Only UI is developed for this project for this project, functionality is not.  
+Screen sizes
+- Mobile(320px , 425px)
+- Tablet(768 px)
+- Laptop(Full-width)
 
 ***
 ### Other Important Details
-- >Time taken for completion : 2 hours
+- >Time taken for completion : 5 hours
 - Technologies Used
   - HTML
   - CSS
